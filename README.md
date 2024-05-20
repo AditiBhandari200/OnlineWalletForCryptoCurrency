@@ -1,2 +1,5 @@
 # OnlineWalletForCryptoCurrency
-Creating an online wallet for cryptocurrency that is secure, and has functionalities like create new account, login/logout, check balance, transfer funds, import tokens and accounts.
+Extention based wallet. Secure, Easy-to-use and scalable. 
+Download and install all packages. 
+Connect MongoDB database and Alchemy server.
+-npm run start to launch the server
